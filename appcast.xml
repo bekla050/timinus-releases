@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Timinus</title>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 16:55:51 +0000</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Erste Testversion: Schnellfenster, Detailfenster, iCloud-Sync, MCP-Server mit Schreibzugriff.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.1.0/Timinus-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="6jlSvoNt/aFo9IxKZkae45qeHsGvgJR37asreTZFL9O+Q4SpDmJtp2kevH5AMNTT0DKJ6RXfo/3c3yV5YLSuCA==" length="6236042"/>
+        </item>
+    </channel>
+</rss>
