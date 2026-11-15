@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.2.0</title>
+            <pubDate>Sun, 15 Nov 2026 14:35:10 +0000</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Meeting-Vorschläge: Nach einem Zoom- oder Teams-Meeting schlägt eine Karte oben rechts Thema und Kunden vor (Kalender, E-Mail-Domains am Kunden) und kürzt überlappende Zeitstücke. Das Schnellfenster lässt sich mit der Maus verschieben. Der Wechsel vom Schnell- ins Detailfenster ist zuverlässiger.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.2.0/Timinus-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="jn8BM4QjtJBip2B3W7N1uiSHmUpx9JrcIJwyf98k7LEy7SKPtNRFzqUocwWYeCMr0hlO3MDyQ+OCVL/GY86BDw==" length="8345548"/>
+        </item>
+        <item>
             <title>Version 0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 16:55:51 +0000</pubDate>
             <sparkle:version>56</sparkle:version>
