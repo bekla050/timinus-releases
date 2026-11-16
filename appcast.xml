@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.3.0</title>
+            <pubDate>Mon, 16 Nov 2026 05:57:40 +0000</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Einträge im Detailfenster bearbeiten und anlegen (↩, Startzeit, Tab, Endzeit, ↩), Themen in der Zeile umbenennen (⌘E), Timer im Detailfenster bedienen. Detailfenster neu geordnet: Zeitraum über dem Kundennamen, Kürzelzeile, Menüs Eintrag und Darstellung. Schnellfenster in der Größe änderbar, merkt sich Größe und Position. Laufende Erfassung als pulsierender Punkt, Pause als Ring.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.3.0/Timinus-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="f6CLq5skZ+zQwff3sMR55lvYrIcnk088OMzCBm5mOuFJ7nuHh4CAVW/v8EkrLJtpkhNBccTd2sKjdS8+O5q2BQ==" length="8511518"/>
+        </item>
+        <item>
             <title>Version 0.2.0</title>
             <pubDate>Sun, 15 Nov 2026 14:35:10 +0000</pubDate>
             <sparkle:version>78</sparkle:version>
