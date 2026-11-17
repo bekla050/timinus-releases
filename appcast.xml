@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.0</title>
+            <pubDate>Tue, 17 Nov 2026 15:35:32 +0000</pubDate>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Zeiten nur mit Ziffern tippen: Der Doppelpunkt steht fest, „200“ sind zwei Stunden, „810“ ist 08:10, in Eintragsdialog und Meeting-Karte. Ein Ende in der Zukunft wird gesichert und nur noch als Hinweis gemeldet; Überschneidungen warnen statt zu sperren. Meeting-Karte: erscheint 2 bis 3 Sekunden nach dem Meeting auf dem Bildschirm unter dem Cursor, in Kundenfarbe mit Themensuche; ↩ bucht die markierte Trefferzeile. Detailfenster: Zeitraum „Zuletzt“ (⌘0), Tageszeilen markierbar, Eintragsdialog mit Trefferliste über alle Kunden. Kundendialog mit Beschriftungen und Erklärung der Mail-Domains; Knopf „…“ in der Kundenspalte. Das Schnellfenster behält seine Größe, auch wenn ein Monitor fehlt. Probeläufe mit Testdatenbank synchronisieren nie mit iCloud.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.0/Timinus-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="baUdrIhtsY3e3e3srUlWJnOWHQlgkDUwcSeq9/6MhpQXVsd51xT0KsMEp5ubIMORoRbxB/KfukjWr/E/ht7mCA==" length="8691891"/>
+        </item>
+        <item>
             <title>Version 0.3.0</title>
             <pubDate>Mon, 16 Nov 2026 05:57:40 +0000</pubDate>
             <sparkle:version>105</sparkle:version>
