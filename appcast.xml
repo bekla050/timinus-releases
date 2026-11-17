@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.1</title>
+            <pubDate>Tue, 17 Nov 2026 19:42:17 +0000</pubDate>
+            <sparkle:version>144</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Ein laufender Timer endet nur noch durch dich: Der Neustart nach einem Update lässt ihn ohne Lücke weiterlaufen. Beim Beenden mit laufendem Timer fragt Timinus, ob er weiterlaufen oder pausieren soll. Ruhezustand sowie Herunterfahren und Abmelden pausieren den Timer nur noch, wenn du es in den Einstellungen unter „Timer“ einschaltest (beide Schalter sind aus). Nach einem Absturz läuft der Timer weiter.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.1/Timinus-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="JQ5j6W68j4RDCfbpurjMKVRBb/k/dx7W8VILJdKSyC2U5xMSoFm9HQiZQ26zEQOZ6TDyMIeltxZwuxU8MoZqAQ==" length="8702962"/>
+        </item>
+        <item>
             <title>Version 0.4.0</title>
             <pubDate>Tue, 17 Nov 2026 15:35:32 +0000</pubDate>
             <sparkle:version>141</sparkle:version>
