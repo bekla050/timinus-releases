@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.2</title>
+            <pubDate>Wed, 18 Nov 2026 12:58:40 +0000</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Detailfenster: Ansicht und Heute-Knopf folgen dem Tageswechsel, wenn das Fenster über Nacht offen bleibt. Zeitraum-Knöpfe mit größerer, runder Klickfläche und Hinterlegung beim Überfahren. Schnellfenster öffnet auf dem Bildschirm mit dem Mauszeiger.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.2/Timinus-0.4.2.dmg" type="application/octet-stream" sparkle:edSignature="nUyi76XgWxfBD+VeJO+eb04PqtPtO6685KpTmdD1h2FK+xzFJClVGA3P0f16TKPJQuAFpiXnW1pGAx/uE7tMDw==" length="8709871"/>
+        </item>
+        <item>
             <title>Version 0.4.1</title>
             <pubDate>Tue, 17 Nov 2026 19:42:17 +0000</pubDate>
             <sparkle:version>144</sparkle:version>
