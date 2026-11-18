@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.3</title>
+            <pubDate>Wed, 18 Nov 2026 16:54:09 +0000</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Nach dem Erfassen eines Meetings, das eine laufende Arbeit pausiert hat, fragt eine Karte, ob die Arbeit weiterläuft. Fortsetzen startet sie ab Meetingende; die Uhrzeit lässt sich überschreiben.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.3/Timinus-0.4.3.dmg" type="application/octet-stream" sparkle:edSignature="bgTRIuSKQTdqgHg+BGaE5oUvEKhbk7iqveAplsXgVnRNEs9b9E288np8VPLAm2ZXJ8vmXvvt0/dj81bpGuq3BA==" length="8732956"/>
+        </item>
+        <item>
             <title>Version 0.4.2</title>
             <pubDate>Wed, 18 Nov 2026 12:58:40 +0000</pubDate>
             <sparkle:version>147</sparkle:version>
