@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.4</title>
+            <pubDate>Thu, 19 Nov 2026 19:17:52 +0000</pubDate>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Meeting-Karte wählt den passenden Kalendertermin, auch wenn ein langer Termin wie „Außer Haus“ darüber liegt, und merkt sich den zuletzt gewählten Kunden auch bei Kunden mit Domains. Rückfrage vor dem Löschen eines Zeitstücks im Detailfenster.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.4/Timinus-0.4.4.dmg" type="application/octet-stream" sparkle:edSignature="yYzeCWY+O9T1XCUzhiY8VuA/2BPn9Ec8bwtk3vEmVwas1Cx+DduDlxtqgV06XCRN/Ub8P28qrdHvu1gxG/RiAg==" length="8736094"/>
+        </item>
+        <item>
             <title>Version 0.4.3</title>
             <pubDate>Wed, 18 Nov 2026 16:54:09 +0000</pubDate>
             <sparkle:version>149</sparkle:version>
