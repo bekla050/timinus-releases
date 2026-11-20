@@ -3,6 +3,15 @@
     <channel>
         <title>Timinus</title>
         <item>
+            <title>Version 0.4.5</title>
+            <pubDate>Fri, 20 Nov 2026 19:53:50 +0000</pubDate>
+            <sparkle:version>156</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Detailfenster: Fußzeilen von Seitenleiste und Liste auf einer Linie. Ein Eintrag ohne Dauer zeigt 0:00 statt 24 Stunden und lässt sich umbuchen.]]></description>
+            <enclosure url="https://github.com/bekla050/timinus-releases/releases/download/v0.4.5/Timinus-0.4.5.dmg" type="application/octet-stream" sparkle:edSignature="1Z871n3V82kteRfDlmrMiaILc5e7A2iRTRA3l3yaMwSs3JDw40VneV9Cjf8/31otjgPQyA7JqRk9YuwpzXx+Cg==" length="8736868"/>
+        </item>
+        <item>
             <title>Version 0.4.4</title>
             <pubDate>Thu, 19 Nov 2026 19:17:52 +0000</pubDate>
             <sparkle:version>153</sparkle:version>
